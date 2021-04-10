@@ -11,7 +11,7 @@
 <?php
 $hostname = "localhost";
 $username = "root";
-$password = "12345";
+$password = "";
 $dbName = "departmentstore";
 $goodsId = $_POST['goodsId'];
 $goodsName = $_POST['goodsName'];

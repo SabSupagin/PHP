@@ -18,7 +18,7 @@
     
     $hostname = "localhost";
     $username = "root";
-    $password = "12345";
+    $password = "";
     $dbName = "departmentstore";
     $conn = mysqli_connect( $hostname, $username, $password, $dbName);
     if ( ! $conn ) die ( "ไม่สามารถติดต่อกับ MySQL ได้" );
